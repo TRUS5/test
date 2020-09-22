@@ -3,5 +3,5 @@
     <version>1.1.0.0</version>
     <url>https://github.com/TRUS5/test/releases/download/1/Versios11.zip</url>
     <changelog>https://github.com/TRUS5/test/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
