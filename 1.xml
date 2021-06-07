@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.0.0</version>
-    <url>https://github.com/TRUS5/test/releases/download/2.0/DiversBot2.zip</url>
+    <version>2.0.0.1</version>
+    <url>https://github.com/TRUS5/test/releases/download/2.01/DiversBot2.01.zip</url>
     <changelog>https://github.com/TRUS5/test/releases</changelog>
     <mandatory>true</mandatory>
 </item>
